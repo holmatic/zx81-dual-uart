@@ -1,0 +1,52 @@
+Partlist
+
+Exported from ZxUartAdapter.brd at 02.02.2019 14:39
+
+EAGLE Version 9.2.2 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package      Library        Position (mm)         Orientation
+
+C1       22pF           C025-025X050 rcl            (53.34 33.02)         R180
+C2       22pF           C025-025X050 rcl            (53.34 17.78)         R180
+C3       4.7/16         E5-5         rcl            (21.59 50.8)          R180
+C4       4.7/16         E5-5         rcl            (21.59 45.72)         R180
+C5       10/16          E5-6         rcl            (55.88 38.1)          R0
+C6       100n           C050-024X044 rcl            (85.09 36.83)         R0
+C7       100n           C050-024X044 rcl            (63.5 38.1)           R180
+C8       100n           C050-024X044 rcl            (35.56 43.18)         R0
+C9       100n           C050-024X044 rcl            (22.86 41.91)         R180
+C10      100n           C050-024X044 rcl            (82.55 29.21)         R270
+C11      100n           C050-024X044 rcl            (90.17 36.83)         R90
+C12      100n           C050-024X044 rcl            (82.55 21.59)         R90
+C13      100n           C050-024X044 rcl            (85.09 34.29)         R0
+D1       3.0            ZDIO-7.5     diode          (46.99 53.34)         R0
+D2       1N4148         DO35-7       diode          (78.74 16.51)         R180
+D3       1N4148         DO35-7       diode          (78.74 13.97)         R180
+D4       1N4148         DO35-7       diode          (72.39 53.34)         R0
+GND      GND            2,15/1,0     wirepad        (22.86 55.88)         R0
+IC1      74HCT174N      DIL16        74xx-eu        (21.59 30.48)         R270
+IC2      74HCT30N       DIL14        74xx-eu        (63.5 26.67)          R270
+IC3      74HCT04N       DIL14        74xx-eu        (52.07 46.99)         R0
+IC4      XR16C2850      S44          Exar_XR16C2850 (38.1 29.21)          R90
+IC5      74HCT139N      DIL16        74xx-eu        (74.93 27.94)         R270
+IC6      MAX232         DIL16        maxim          (88.9 22.86)          R270
+IC7      7805TV         TO220V       linear         (20.32 17.78)         R0
+LED1     2mA/Green      LED3MM       led            (29.21 55.88)         R0
+OK1      6N137          DIL08        optocoupler    (68.58 46.99)         R0
+Q1       14.7456MHz     QS           special        (53.34 25.4)          R90
+R1       1M             0207/12      rcl            (57.15 25.4)          R90
+R2       470            0207/12      rcl            (34.29 50.8)          R180
+R3       1K5            0207/12      rcl            (34.29 48.26)         R180
+R5       220            0207/12      rcl            (59.69 53.34)         R0
+R6       220            0207/12      rcl            (81.28 49.53)         R0
+R7       10K            0207/12      rcl            (81.28 46.99)         R0
+R8       2K2            0207/12      rcl            (81.28 41.91)         R0
+R9       220            0207/12      rcl            (81.28 44.45)         R0
+SV1      Midi           MA04-1       con-lstb       (66.04 57.15)         R0
+SV3      RS232          MA05-2       con-lstb       (83.82 55.88)         R0
+SV4      SerTTL         MA05-1       con-lstb       (40.64 57.15)         R0
+TAPEOUT  TapeOUT        2,15/1,0     wirepad        (19.05 55.88)         R0
+U$1      ZX-EDGEZX96    ZX-EDGE64    sinclair       (50.8 0)              R270
+X1       RS232          F09HP        con-subd       (10.795 31.115)       R90
